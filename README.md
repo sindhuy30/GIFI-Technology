@@ -12,3 +12,14 @@ Low Power Consumption:
 Optimized for energy efficiency, suitable for portable devices.
 Security: 
 Enhanced security due to line-of-sight requirement and limited range.
+
+
+Applications:
+
+Rapid data transfer between devices (e.g., smartphones, tablets, PCs).
+
+High-speed multimedia streaming.
+
+Quick data exchange in smart home environments.
+
+Efficient wireless office networking solutions.
