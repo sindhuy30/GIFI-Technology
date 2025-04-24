@@ -25,3 +25,12 @@ High-speed multimedia streaming.
 Quick data exchange in smart home environments.
 
 Efficient wireless office networking solutions.
+
+
+Advantages:
+
+Faster data transfer compared to traditional wireless technologies.
+
+Lower latency, providing a smoother user experience.
+
+
