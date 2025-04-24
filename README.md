@@ -7,24 +7,18 @@ Gi-Fi (Gigabit Wireless Fidelity) is an advanced wireless communication technolo
 
 Key Features:
 
-High-Speed Connectivity: Capable of data transfer rates around 5 Gbps.
-
-Short-Range Communication: Effective over distances up to 10 meters.
-
-Low Power Consumption: Optimized for energy efficiency, suitable for portable devices.
-
-Security: Enhanced security due to line-of-sight requirement and limited range.
+   1. High-Speed Connectivity: Capable of data transfer rates around 5 Gbps.
+   2. Short-Range Communication: Effective over distances up to 10 meters.
+   3. Low Power Consumption: Optimized for energy efficiency, suitable for portable devices.
+   4. Security: Enhanced security due to line-of-sight requirement and limited range.
 
 
 Applications:
 
-Rapid data transfer between devices (e.g., smartphones, tablets, PCs).
-
-High-speed multimedia streaming.
-
-Quick data exchange in smart home environments.
-
-Efficient wireless office networking solutions.
+   1. Rapid data transfer between devices (e.g., smartphones, tablets, PCs).
+   2. High-speed multimedia streaming.
+   3. Quick data exchange in smart home environments.
+   4. Efficient wireless office networking solutions.
 
 
 Advantages:
