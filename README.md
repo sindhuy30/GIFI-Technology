@@ -33,4 +33,8 @@ Faster data transfer compared to traditional wireless technologies.
 
 Lower latency, providing a smoother user experience.
 
+Minimal interference due to higher frequency usage.
+
+Cost-effective implementation potential.
+
 
