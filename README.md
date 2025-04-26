@@ -23,12 +23,9 @@ Applications:
 
 Advantages:
 
-Faster data transfer compared to traditional wireless technologies.
-
-Lower latency, providing a smoother user experience.
-
-Minimal interference due to higher frequency usage.
-
-Cost-effective implementation potential.
+   1. Faster data transfer compared to traditional wireless technologies.
+   2. Lower latency, providing a smoother user experience.
+   3. Minimal interference due to higher frequency usage.
+   4. Cost-effective implementation potential.
 
 
