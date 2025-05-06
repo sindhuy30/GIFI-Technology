@@ -28,4 +28,8 @@ Advantages:
    3. Minimal interference due to higher frequency usage.
    4. Cost-effective implementation potential.
 
+Limitations:
 
+Limited range requiring line-of-sight connectivity.
+
+Signal blockage by physical barriers.
