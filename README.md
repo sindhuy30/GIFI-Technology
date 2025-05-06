@@ -30,6 +30,5 @@ Advantages:
 
 Limitations:
 
-Limited range requiring line-of-sight connectivity.
-
-Signal blockage by physical barriers.
+   1. Limited range requiring line-of-sight connectivity.
+   2. Signal blockage by physical barriers.
