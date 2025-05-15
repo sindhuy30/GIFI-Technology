@@ -1,4 +1,4 @@
-# GIFI-Technology
+# GIFI Technology
 
 Overview:
 
